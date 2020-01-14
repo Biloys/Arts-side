@@ -11,5 +11,6 @@
  <body>
  	<h1> kyky rebyata ya na gite seichas probyu testovue pravki </h1>
  	<h1> +1 в чат кто согласен со мной </h1>
+ 	<h1> +5 в чат кто не согласен со мной </h1>
  </body>
  </html>
