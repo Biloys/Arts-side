@@ -9,6 +9,6 @@
  	<title>dinozavr</title>
  </head>
  <body>
- 	<h1> kyky rebyat </h1>
+ 	<h1> kyky rebyata ya na gite </h1>
  </body>
  </html>
